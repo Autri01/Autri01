@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" size="20p"/>I'm Autri Acharyya!
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width:100%;">I'm Autri Acharyya!
 
 
 - 🔭 I’m currently working on making great apps!
